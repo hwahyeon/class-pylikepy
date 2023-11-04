@@ -20,3 +20,5 @@ etc
 
 ## 참고 자료
 [강의 소개](https://school.programmers.co.kr/learn/courses/4008)
+
+21년 8월 23일에 수강하였음
